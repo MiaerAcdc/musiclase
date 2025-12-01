@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537580153664",
+    "project_id": "musiclase-fbe84",
+    "storage_bucket": "musiclase-fbe84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537580153664:android:f161521661897b5840a8a5",
+        "android_client_info": {
+          "package_name": "com.example.musiclase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQq5c-C9W_AwET4A8dmDYTwoLqqZu1pAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
